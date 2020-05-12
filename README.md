@@ -11,8 +11,7 @@ This folder is broken into two parts, sketch and color.
 │   ├── config.py
 │   ├── game
 │   │   ├── cocos2d-js-min.js
-│   │   ├── main.js
-│   │   └── style-desktop.css
+│   │   └── main.js
 │   ├── server.py
 │   └── tricks.py
 └── sketch

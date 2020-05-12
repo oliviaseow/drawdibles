@@ -3,7 +3,7 @@
 Drawdibles is a creative drawing tool that listens to what a child user wants to create and completes the drawing for them, allowing children to build on their creativity and tell imaginative stories. 
 
 ## File structure
-This folder is broken into two parts, sketch.
+This folder is broken into two parts, sketch and color.
 
 ```bash
 ├── README.md

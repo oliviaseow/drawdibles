@@ -2,7 +2,7 @@
 
 Drawdibles is a creative drawing tool that listens to what a child user wants to create and completes the drawing for them, allowing children to build on their creativity and tell imaginative stories.
 
-![Drawdibles Video Link](https://www.dropbox.com/s/k5hjzwp6qmamx9h/output.jpg?dl=1)](https://www.youtube.com/watch?v=Am3od2MHZSg)
+[![Alt text](https://www.dropbox.com/s/k5hjzwp6qmamx9h/output.jpg?dl=1)](https://www.youtube.com/watch?v=Am3od2MHZSg)
 
 ## File structure
 This folder is broken into two parts, sketch and color.

@@ -4,6 +4,7 @@ Drawdibles is a creative drawing tool that listens to what a child user wants to
 
 
 Watch video:
+
 [![Drawdibles Video](https://img.youtube.com/vi/Am3od2MHZSg/0.jpg)](https://www.youtube.com/watch?v=Am3od2MHZSg)
 
 ## File structure
